@@ -1,7 +1,7 @@
-# pages
+# pages (web pages for TimeWalk building info)
 Container for HTML pages hosted at https://pages.timewalk.org/
 
-Each building has a dedicated webpage explaining its history and model construction.  This webpage is a copy of the Github repo for that building (e.g. the pages at https://github.com/TimeWalkOrg/pages/tree/master/building-mill-valley-ca-hub-theatre are an HTML-friendly version of the Github README at https://github.com/TimeWalkOrg/building-mill-valley-ca-hub-theatre).
+Each building has a dedicated webpage explaining its history and model construction.  This webpage is a copy of the Github README.md ("markdown format" file) for that building (e.g. the pages at https://github.com/TimeWalkOrg/pages/tree/master/building-mill-valley-ca-hub-theatre are an HTML-friendly version of the Github README at https://github.com/TimeWalkOrg/building-mill-valley-ca-hub-theatre).
 
 To generate these web pages (e.g. for a new building), do the following:
 
